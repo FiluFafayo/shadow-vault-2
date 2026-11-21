@@ -1,0 +1,1 @@
+{"description":"Shadow Vault — an original top-down stealth heist game. Steal every gem, then slip out the exit unseen.","license":"MIT","name":"shadow-vault-2","scripts":{"hand-in":"mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts","serve":"node serve.ts"},"type":"module","version":"1.0.0"}
